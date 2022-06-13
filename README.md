@@ -1,5 +1,4 @@
-# Database-team-project
-## NBA Players Stats
+# NBA Players Stats
 
 1. 在 Player.php 跟 Team.php 兩個檔案中將 MySQL server的帳號密碼改成自己的
 
